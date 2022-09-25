@@ -1,0 +1,26 @@
+{
+    "id": "v6Xe",
+    "name": "Trigger Comment",
+    "content": [
+        {
+            "type": "trigger",
+            "eventSymbol": "e03a24dc-02d1-44e5-8919-f08e7e1a7f04",
+            "triggerType": "modified",
+            "actionType": "ghcomment",
+            "actionURL": "https://app.swimm.io/workspaces/aRvMqc0yWAVcJlLN944D/repos/veezvxCuzpPrRLLXWD2E/branch/develop/docs/SOLx67J3ZHuGvxD98rj9",
+            "text": "Add a New Suite to the CI in the E2E Testing Guide"
+        }
+    ],
+    "symbols": {
+        "e03a24dc-02d1-44e5-8919-f08e7e1a7f04": {
+            "type": "path",
+            "text": "Our E2E Test Order",
+            "path": "cypress.json"
+        }
+    },
+    "file_version": "2.0.1",
+    "meta": {
+        "app_version": "0.9.2-0",
+        "file_blobs": {}
+    }
+}
